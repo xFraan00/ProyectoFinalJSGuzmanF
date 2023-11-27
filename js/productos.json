@@ -1,0 +1,93 @@
+[
+
+    {
+        "id": "BG3",
+        "titulo": "BALDUR'S GATE 3",
+        "imagen": "img/BG3P.webp",
+        "precio": 60
+},
+{
+    "id": "bloodborne",
+    "titulo": "Bloodborne",
+    "imagen": "img/Bloodborne.portada.webp",
+    "precio": 40
+},
+{
+    "id": "darksouls3" ,
+    "titulo": "Dark Souls 3",
+    "imagen": "img/Dark_Souls_III_Portada.webp",
+    "precio": 30
+},
+{
+    "id":"darksouls",
+    "titulo": "Dark Souls",
+    "imagen": "img/Dark_Souls_Portada.webp",
+    "precio": 20
+},
+{
+    "id": "doom",
+    "titulo": "Doom",
+    "imagen": "img/Doom.Portada.webp",
+    "precio": 40
+},
+{
+    "id": "doomIternal",
+    "titulo": "Doom Iternal",
+    "imagen": "img/DoomI.Portada.webp",
+    "precio": 60
+},
+{
+    "id": "eldenRing",
+    "titulo": "Elden Ring", 
+    "imagen": "img/EldenRingPortada.jpg",
+    "precio": 60
+},
+{
+    "id":"gtaV",
+    "titulo": "Grand Theft Auto: V",
+    "imagen": "img/gtaV-portada.jpg",
+    "precio": 40
+},
+{
+    "id": "hades",
+    "titulo": "Hades",
+    "imagen": "img/Hades_Pack_Portada.webp",
+    "precio": 20
+},
+{
+    "id": "hollowknight",
+    "titulo":"Hollow Knight", 
+    "imagen": "img/hollow_knight-Portada.jpg",
+    "precio": 20
+},
+{
+    "id":"readDead2",
+    "titulo": "Read Dead Redemtion 2",
+    "imagen": "img/red-dead-redemption-Portada.jpg",
+    "precio": 60
+},
+{
+    "id": "residentEvil4",
+    "titulo": "Resident Evil 4 Remake",
+    "imagen": "img/RE4.Portada.webp",
+    "precio": 60
+},
+{
+    "id":"sekiro" ,
+    "titulo": "Sekiro: Shadow Dies Twice",
+    "imagen": "img/sekiro.Portada.jpg",
+    "precio": 40
+},
+{
+    "id":"theWitcher3" ,
+    "titulo": "The Witcher 3",
+    "imagen": "img/TheWitcher.Portada.webp",
+    "precio": 40
+},
+{
+    "id":"SOS" ,
+    "titulo": "Sea of Stars",
+    "imagen": "img/SeaP.avif",
+    "precio": 40
+}
+]
